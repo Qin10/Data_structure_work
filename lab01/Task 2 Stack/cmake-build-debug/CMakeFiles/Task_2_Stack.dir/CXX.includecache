@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Whoami/Desktop/data_structure/Lab1/Task 2 Stack/Stack.h
+iostream
+-
+
+C:/Users/Whoami/Desktop/data_structure/Lab1/Task 2 Stack/main.cpp
+iostream
+-
+Stack.h
+C:/Users/Whoami/Desktop/data_structure/Lab1/Task 2 Stack/Stack.h
+

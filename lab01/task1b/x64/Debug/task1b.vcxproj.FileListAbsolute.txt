@@ -1,0 +1,2 @@
+C:\Users\秦政瀚\Desktop\lab01\task1b\x64\Debug\task1b.exe
+C:\Users\秦政瀚\Desktop\lab01\task1b\x64\Debug\task1b.pdb
